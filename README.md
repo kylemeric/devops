@@ -1,8 +1,8 @@
 # Nom du projet
 
-Brève description du projet — objectif principal en une phrase.
+Premier projet du cours DevOps
 
-## Prérequis
+## Prerequis
 
 - Git
 - [Liste des dépendances nécessaires, ex. Node.js, Python, Docker]
@@ -17,12 +17,6 @@ Brève description du projet — objectif principal en une phrase.
     - Exemple Node.js : npm install
     - Exemple Python : pip install -r requirements.txt
 
-## Utilisation
-
-- Commandes courantes :
-  - Lancer en développement : npm run dev / python main.py
-  - Construire : npm run build
-  - Exécuter les tests : npm test
 
 ## Structure du dépôt
 
@@ -38,9 +32,6 @@ Brève description du projet — objectif principal en une phrase.
 3. Committer : git commit -m "Description"
 4. Pusher et ouvrir une pull request
 
-## Licence
-
-Indiquer la licence du projet (ex. MIT). Remplacer par la licence choisie.
 
 ## Auteur
 
